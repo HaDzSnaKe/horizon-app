@@ -1,0 +1,3 @@
+Copy the two CSV files produced by the horizon_etf_data notebook into this folder:
+  horizon_prices_monthly.csv
+  horizon_returns_monthly.csv
